@@ -1,5 +1,6 @@
 title: breindycodes 
 description: Documentation for the progress of my coding journey
 show_downloads: false
-
+# include:
+#   - _posts
 theme: jekyll-theme-hacker
